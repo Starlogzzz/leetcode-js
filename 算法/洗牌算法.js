@@ -1,6 +1,6 @@
 function shuffle(arr) {
   let newArr = [];
-  while(arr.length != 0) {
+  while(arr.length) {
     let rand = Math.floor(Math.random() * arr.length);
     newArr.push(arr[rand]);
     arr.splice(rand, 1);
