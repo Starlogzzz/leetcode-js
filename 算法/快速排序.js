@@ -1,3 +1,4 @@
+// 时间复杂度O(nlogn)
 function quickSort(arr) {
   let left_arr = [];
   let right_arr = [];
