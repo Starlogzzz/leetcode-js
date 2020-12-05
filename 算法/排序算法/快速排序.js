@@ -17,6 +17,7 @@ function quickSort(arr) {
 }
 
 
+
 let arr = [1, 9, 5, 0, 1, 100]
 
 console.log(quickSort(arr))

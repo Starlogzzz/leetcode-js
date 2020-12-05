@@ -15,5 +15,6 @@ function selectSort(arr) {
   return arr;
 }
 
+
 let arr = [5,9,7,3,5,1,0];
 console.log(selectSort(arr))
